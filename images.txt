@@ -1,1 +1,1 @@
-proteinphysiologylab/frustrapocket:latest
+pharmai/plip:2.4.0-multi
