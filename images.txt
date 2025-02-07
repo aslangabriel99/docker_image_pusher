@@ -1,1 +1,1 @@
-staphb/plasmidfinder:latest
+proteinphysiologylab/frustrapocket:latest
